@@ -1,0 +1,52 @@
+# Visual Studio files.
+# --------------------
+
+[Ii]ntermediate/
+
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.user
+*.exe
+*.pdb
+*.ilk
+*.aps
+*.log
+*.lib
+*.VC.db
+*.lock.json
+
+
+# Visual Studio C# files.
+# -----------------------
+
+[Bb]in/
+[Oo]bj/
+.vs/
+TestResults/
+
+
+# Resharper files.
+# ----------------
+
+_ReSharper.Caches/
+
+
+# Windows files.
+# --------------
+
+Thumbs.db
+Desktop.ini
+
+
+# NuGet packages.
+# ---------------
+
+[Pp]ackages/
+
+
+# StyleCop files.
+# ----------------
+
+StyleCop.Cache
